@@ -738,4 +738,71 @@ const locales = {
             "clear": "Formattazione ripristinata"
         }
     }
+     "he": {
+        "cCode": "he",
+        "language": "עברית",
+        "text": {
+            "channelNameLabel": "צ'אט",
+            "scrollCheck": "אנימצית גלילה למטה מאושרת",
+            "fileSent": "שולח קובץ(צים(",
+            "attachmentTxt": "קבצים מצורפים",
+            "privateMessages": "בפרטי",
+            "userId": "הID של המשתמש"
+        },
+        "buttons": {
+            "clearLastMessages": "למחוק הודעות אחרונות",
+            "editToken": "לשנות טוקן",
+            "refreshChat": "לרענן את הצ'אט",
+            "changeLanguage": "לשנות שפה",
+            "send": "לשלוח",
+            "leave": "לעזוב את השרת",
+            "invite": "להזמין"
+        },
+        "infos": {
+            "owner": "בעלים",
+            "members": "משתמשים",
+            "vChannels": "חדרי דיבור",
+            "tChannels": "חדרי צ'אט",
+            "roles": "רולים",
+            "channels": "חדרים",
+            "emojis": "אימוג'ים"
+        },
+        "headings": {
+            "lastMessages": "הודעות אחרונות",
+            "guildName": "מידע",
+            "autoScroll": "גלילה אוטומטית",
+        },
+        "errors": {
+            "error": "שגיאה",
+            "dm": "שגיאה בפרטי",
+            "emptyMsg": "שגיאה: הודעה ריקה",
+            "missingPermissions": "שגיאה: אין גישות"
+        },
+        "token": {
+            "prompt": "אנא תכניס את הטוקן של הדיסקורד בוט שלך",
+            "confirmation": "אתה בטוח?",
+            "invalid": "אין טוקן או שהטוקן לא נכון"
+        },
+        "messageType": {
+            "serverJoin": "נכנס לשרת",
+            "pin": "הדביק הודעה",
+            "channelNews": "הוסיף שליטה לחדר חדשות",
+            "boost": "עשה בוסט לשרץ"
+        },
+        "fileType": {
+            "unknown": "לא ידוע",
+            "img": "תמונה",
+            "doc": "מסמך",
+            "pdf": "pdf",
+            "video": "סרטון",
+            "audio": "שמע"
+        },
+        "formatting": {
+            "bold": "Bold",
+            "emphasis": "Emphasis",
+            "underline": "Underline",
+            "strike": "Strikethrough",
+            "clear": "Clear formatting"
+        }
+    },
 };
